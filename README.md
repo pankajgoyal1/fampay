@@ -8,5 +8,6 @@ Steps for running the project;
 
 Notes:
 In App.js
-  line no 9: we can provide any number of api keys here, so if one api keys fails, it will get the data from another one.
-  line no 6: Provide mongodb connection string here.
+
+1) line no 9: we can provide any number of api keys here, so if one api keys fails, it will get the data from another one.
+2) line no 6: Provide mongodb connection string here.
